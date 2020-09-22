@@ -6,6 +6,8 @@ public class Main {
 		System.out.println("Hi, my name is Kurtis Smith!");
 		
 		System.out.println("My foavourite colour is Blue!");
+		
+		System.out.println("My favourite mode of transportation is Motorcycle! ");
 	}
 
 }
