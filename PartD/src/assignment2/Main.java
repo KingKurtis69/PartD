@@ -8,6 +8,8 @@ public class Main {
 		System.out.println("My foavourite colour is Blue!");
 		
 		System.out.println("My favourite mode of transportation is Motorcycle! ");
+		
+		System.out.println("The best day of the week is Friday!");
 	}
 
 }
